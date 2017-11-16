@@ -1,0 +1,9 @@
+Hey, I have no idea how to ask questions about code on github so this was my best idea. I'm trying to use your code within
+a project, but I'm running into problems making it work. In your readme, you have a reference to connectSocket, which doesn't
+seem to appear in the spotifyconnectws file anywhere. I assume it is a method of some sort, that ties together the web sockets
+and spotify? Did it get left out of the code for some reason, or is it some strange placeholder made up by babel? 
+
+Hope you see this, I'd love to be able to monitor playback with spotify. Hopefully they put out a more complete api soon!
+
+Thanks,
+Bryn
